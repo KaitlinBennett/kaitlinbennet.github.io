@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Kaitlin Bennett - Our Satanic Saviour
 
-You can use the [editor on GitHub](https://github.com/KaitlinBennett/kaitlinbennet.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In a world doomed by equal rights, political freedom and happiness we have been blessed by the arial of The Arch Duke of hell herself, Lord Susan Sisson. Lord Susan has chosen the demonic creature of legend - Kaitlin Bennett to be our glorious anti-christ.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="kaitlin.jpg" width="100%">
 
-### Markdown
+For it is written in the scriptures of Susan that Kaitlin Bennett shall take the staff of Hasedoki from it's crypt deep in the Shadowfoot Sanctum and use the staff to rain down bullets of devine hatred, unleash monsters most befoul and deliver smelly French Tuna baguettes to every household on the planet. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The Teachings of Kaitlin Bennett
 
-```markdown
-Syntax highlighted code block
+Below is an easy to follow set of guidelines to follow under the ruling of glorious anti-christ Kaitlin Bennett.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# The Thirteen Teachings  
 
-1. Numbered
-2. List
+1. Always give opinions, so long as they will cause offence.
+2. Always complain about other people who are 'more privilleged' than you.
+3. Disrespect everyone, wherever they may be.
+4. Treat friends and family with resentment and jealous feelings.
+5. Never lay down with man, only with beast.
+6. Covert any posessions of another, unless they are those of Kaitlin Bennett's. 
+7. Acknowledge the might of Lord Susan Sisson by praying in an easterly facing direction.
+8. Acknowledge the might of Kaitlin Bennett by praying in a westernly facing direction.
+9. Read your scriptures on an evening for a minimum of 25 hours.
+10. Comment 'Hail Satan' wherever you feel appropriate.
+11. When existing anywhere, destroy everyone.
+12. Spend every portion of wealth on firearms - these will be needed on the day of ascention.
+13. Follow the thirteen teachings.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KaitlinBennett/kaitlinbennet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
